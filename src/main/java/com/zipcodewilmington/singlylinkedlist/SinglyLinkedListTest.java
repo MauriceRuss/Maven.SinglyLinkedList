@@ -1,47 +1,38 @@
 package com.zipcodewilmington.singlylinkedlist;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import static org.junit.Assert.*;
 
-/**
- * Created by leon on 1/10/18.
- */
 public class SinglyLinkedListTest {
-    @Before
-    @After
 
-    @Test
+    @org.junit.Test
     public void addElement() {
     }
 
-    @Test
+    @org.junit.Test
     public void removeElementByIndex() {
     }
 
-    @Test
+    @org.junit.Test
     public void containsElement() {
     }
 
-    @Test
+    @org.junit.Test
     public void findElementByIndex() {
     }
 
-    @Test
+    @org.junit.Test
     public void getSizeOfList() {
     }
 
-    @Test
+    @org.junit.Test
     public void getElementByIndex() {
     }
 
-    @Test
+    @org.junit.Test
     public void copysSameValues() {
     }
 
-    @Test
+    @org.junit.Test
     public void sortList() {
     }
-
-
 }
